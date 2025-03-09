@@ -1,0 +1,362 @@
+[
+    {
+        "title": "My 16-month theanine self-experiment",
+        "link": "https://dynomight.net/theanine/"
+    },
+    {
+        "title": "AI tools are spotting errors in research papers",
+        "link": "https://www.nature.com/articles/d41586-025-00648-5"
+    },
+    {
+        "title": "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
+        "link": "https://arxiv.org/abs/2502.14882"
+    },
+    {
+        "title": "LFortran Compiles Prima",
+        "link": "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
+    },
+    {
+        "title": "Presenterm: Markdown Slideshows in the Terminal",
+        "link": "https://github.com/mfontanini/presenterm"
+    },
+    {
+        "title": "Gleam v1.9.0 Released",
+        "link": "https://gleam.run/news/hello-echo-hello-git/"
+    },
+    {
+        "title": "Building an open-source Wi-Fi Mac layer for the ESP32",
+        "link": "https://esp32-open-mac.be"
+    },
+    {
+        "title": "Helpcare AI (YC F24) Fullstack Engineer",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview"
+    },
+    {
+        "title": "Show HN: I built an app to get daily wisdom from Mr. Worldwide",
+        "link": "https://daale.club/"
+    },
+    {
+        "title": "Online Embedded Rust Simulator",
+        "link": "https://wokwi.com/rust"
+    },
+    {
+        "title": "SMBC Parts Ways with Hiveworks",
+        "link": "https://www.smbc-comics.com/comic/announcement-2"
+    },
+    {
+        "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea",
+        "link": "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/"
+    },
+    {
+        "title": "The DOJ still wants Google to sell off Chrome",
+        "link": "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
+    },
+    {
+        "title": "How to know when it's time to go",
+        "link": "https://bitfieldconsulting.com/posts/when-its-time-to-go"
+    },
+    {
+        "title": "H3: For indexing geographies into a hexagonal grid, by Uber",
+        "link": "https://h3geo.org/"
+    },
+    {
+        "title": "Goravel: A Go framework inspired by Laravel",
+        "link": "https://www.goravel.dev"
+    },
+    {
+        "title": "\"Big 3\" science fiction magazines including Asimov's and Analog acquired",
+        "link": "https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of"
+    },
+    {
+        "title": "Roald Dahl on the death of his daughter (2015)",
+        "link": "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/"
+    },
+    {
+        "title": "Commodore 64 PETSCII Image (2022)",
+        "link": "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec"
+    },
+    {
+        "title": "Discovering errors in Donald Knuth's TAOCP",
+        "link": "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
+    },
+    {
+        "title": "Discworld Rules",
+        "link": "https://contraptions.venkateshrao.com/p/discworld-rules"
+    },
+    {
+        "title": "Deploy from local to production (self-hosted)",
+        "link": "https://github.com/bypirob/airo"
+    },
+    {
+        "title": "Spark Texture Compression 1.2",
+        "link": "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/"
+    },
+    {
+        "title": "Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed",
+        "link": "https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751"
+    },
+    {
+        "title": "Zig's dot star syntax (value.*)",
+        "link": "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+    },
+    {
+        "title": "Why Layoffs Don't Work",
+        "link": "https://thehustle.co/originals/why-layoffs-dont-work"
+    },
+    {
+        "title": "The program is the database is the interface",
+        "link": "https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/"
+    },
+    {
+        "title": "Ten Digit Problems (2011) [pdf]",
+        "link": "https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf"
+    },
+    {
+        "title": "MCP vs. API Explained",
+        "link": "https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/"
+    },
+    {
+        "title": "Show HN: Testeranto – the AI driven test framework for TypeScript projects",
+        "link": "https://www.npmjs.com/package/testeranto"
+    },
+    {
+        "title": "Body Doubling",
+        "link": "https://bodydoubling.com/"
+    },
+    {
+        "title": "Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled",
+        "link": "https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled"
+    },
+    {
+        "title": "Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]",
+        "link": "https://arxiv.org/abs/2503.01710"
+    },
+    {
+        "title": "Ultrasonic deep drawing cuts friction by 20%, extends tool lifespan",
+        "link": "https://techxplore.com/news/2025-02-ultrasonic-deep-friction-tool-lifespan.html"
+    },
+    {
+        "title": "You might not need Redis",
+        "link": "https://www.viblo.se/posts/no-need-redis/"
+    },
+    {
+        "title": "Reducing latency with esoteric Linux process flags",
+        "link": "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
+    },
+    {
+        "title": "Constantly Divisionless Random Numbers",
+        "link": "https://dotat.at/@/2025-03-05-lemire-inline.html"
+    },
+    {
+        "title": "Kill your Feeds – Stop letting algorithms dictate what you think",
+        "link": "https://usher.dev/posts/2025-03-08-kill-your-feeds/"
+    },
+    {
+        "title": "Social Media Posts About Medical Tests with Potential for Overdiagnosis",
+        "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830758"
+    },
+    {
+        "title": "Gene-edited non-browning banana could cut food waste",
+        "link": "https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich"
+    },
+    {
+        "title": "Magnesium Self-Experiments",
+        "link": "https://gwern.net/nootropic/magnesium"
+    },
+    {
+        "title": "Kagi Is Bringing Orion Web Browser to Linux",
+        "link": "https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux"
+    },
+    {
+        "title": "Understanding Memory Management, Part 2: C++ and RAII",
+        "link": "https://educatedguesswork.org/posts/memory-management-2/"
+    },
+    {
+        "title": "Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX",
+        "link": "https://www.typeleap.com/"
+    },
+    {
+        "title": "The 90s Gamer Experience: Handwritten Notes and Maps",
+        "link": "https://rz01.org/90s-gamer-handwritten-notes-maps/"
+    },
+    {
+        "title": "Explore Sutro Tower",
+        "link": "https://explore.sutrotower.com"
+    },
+    {
+        "title": "AI models makes precise copies of cuneiform characters",
+        "link": "https://news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters"
+    },
+    {
+        "title": "Formal Verification of Zero-Downtime Database Migration in PlusCal",
+        "link": "https://biradarganesh25.github.io/pluscal/db_migration.html"
+    },
+    {
+        "title": "\"Wooly mice\" a test run for mammoth gene editing",
+        "link": "https://arstechnica.com/science/2025/03/wooly-mice-a-test-run-for-mammoth-gene-editing/"
+    },
+    {
+        "title": "GameBoy retro games to play online (on IPFS to stay there forever)",
+        "link": "https://bafybeifsalzccdrgvgxkf3hbaxibvc35giwffwjowfn2lqgn3x7bbwceqq.ipfs.dweb.link"
+    },
+    {
+        "title": "Warning users that upvote violent content",
+        "link": "https://old.reddit.com/r/RedditSafety/comments/1j4cd53/warning_users_that_upvote_violent_content/"
+    },
+    {
+        "title": "The Hierarchy of Hazard Controls",
+        "link": "https://www.hillelwayne.com/post/hoc/"
+    },
+    {
+        "title": "Ask HN: Should there be new RPN calculators to replace the TI-84?",
+        "link": "item?id=43306421"
+    },
+    {
+        "title": "Show HN: I built didtheyghost.me, open-source tool for your next job search",
+        "link": "https://didtheyghost.me/"
+    },
+    {
+        "title": "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
+        "link": "https://pola.rs/posts/polars-cloud-what-we-are-building/"
+    },
+    {
+        "title": "Where are all the self-directed learners?",
+        "link": "https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c"
+    },
+    {
+        "title": "Forces deep underground seem to be deforming Earth's inner core",
+        "link": "https://www.newscientist.com/article/2467491-forces-deep-underground-seem-to-be-deforming-earths-inner-core/"
+    },
+    {
+        "title": "Posthog/.cursorrules",
+        "link": "https://github.com/PostHog/posthog/blob/master/.cursorrules"
+    },
+    {
+        "title": "I've been using Claude Code for a couple of days",
+        "link": "https://twitter.com/Steve_Yegge/status/1898674257808515242"
+    },
+    {
+        "title": "Falkon: A KDE Web Browser",
+        "link": "https://www.falkon.org"
+    },
+    {
+        "title": "Age Verification Laws: A Backdoor to Surveillance",
+        "link": "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control"
+    },
+    {
+        "title": "The features of Python's help() function",
+        "link": "https://www.pythonmorsels.com/help-features/"
+    },
+    {
+        "title": "An epic treatise on error models for systems programming languages",
+        "link": "https://typesanitizer.com/blog/errors.html"
+    },
+    {
+        "title": "The ESP32 \"backdoor\" that wasn't",
+        "link": "https://darkmentor.com/blog/esp32_non-backdoor/"
+    },
+    {
+        "title": "Letta: Letta is a framework for creating LLM services with memory",
+        "link": "https://github.com/letta-ai/letta"
+    },
+    {
+        "title": "Optimistic Locking in B-Trees",
+        "link": "https://cedardb.com/blog/optimistic_btrees/"
+    },
+    {
+        "title": "Strobelight: A profiling service built on open source technology",
+        "link": "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
+    },
+    {
+        "title": "Investors spy the dawn of a tectonic shift away from US markets",
+        "link": "https://www.reuters.com/markets/global-markets-investors-analysis-2025-03-05/"
+    },
+    {
+        "title": "Show HN: Open-Source DocumentAI with Ollama",
+        "link": "https://rlama.dev/"
+    },
+    {
+        "title": "How much are LLMs boosting real-world programmer productivity?",
+        "link": "https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer"
+    },
+    {
+        "title": "Athena spacecraft declared dead after toppling over on moon",
+        "link": "https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead"
+    },
+    {
+        "title": "Undocumented backdoor found in Bluetooth chip used by a billion devices",
+        "link": "https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/"
+    },
+    {
+        "title": "Introducing command And commandfor In HTML",
+        "link": "https://developer.chrome.com/blog/command-and-commandfor"
+    },
+    {
+        "title": "Standards for ANSI Escape Codes",
+        "link": "https://jvns.ca/blog/2025/03/07/escape-code-standards/"
+    },
+    {
+        "title": "The War of the Worlds (1938 radio drama)",
+        "link": "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)"
+    },
+    {
+        "title": "Svelte5: A Less Favorable Vue3",
+        "link": "https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3"
+    },
+    {
+        "title": "56k modems relied on digital trunk lines",
+        "link": "https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/"
+    },
+    {
+        "title": "Masters of None: The Flawed Logic of One-Size-Fits-All Education",
+        "link": "https://thereader.mitpress.mit.edu/masters-of-none-the-flawed-logic-of-one-size-fits-all-education/"
+    },
+    {
+        "title": "How did places like Bell Labs know how to ask the right questions? (2023)",
+        "link": "https://www.freaktakes.com/p/how-did-places-like-bell-labs-know"
+    },
+    {
+        "title": "Volkswagen reintroducing physical controls for vital functions",
+        "link": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
+    },
+    {
+        "title": "Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen",
+        "link": "https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/"
+    },
+    {
+        "title": "'Next-Level' Chaos Traces the True Limit of Predictability",
+        "link": "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
+    },
+    {
+        "title": "How much traffic can a pre-rendered Next.js site handle?",
+        "link": "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
+    },
+    {
+        "title": "This blog post passed unit tests",
+        "link": "https://www.sealambda.com/blog/this-post-passed-unit-tests/"
+    },
+    {
+        "title": "Ask HN: How did the internet discover my subdomain?",
+        "link": "item?id=43285725"
+    },
+    {
+        "title": "Committing fraud is a viable career strategy",
+        "link": "https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/"
+    },
+    {
+        "title": "Matters Computational (2010) [pdf]",
+        "link": "https://www.jjj.de/fxt/fxtbook.pdf"
+    },
+    {
+        "title": "Why Go's Error Handling Is Awesome",
+        "link": "https://rauljordan.com/why-go-error-handling-is-awesome/"
+    },
+    {
+        "title": "Feds Link Cyberheist to 2022 LastPass Hacks",
+        "link": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/"
+    },
+    {
+        "title": "NCSC, GCHQ, UK Gov't expunge advice to “use Apple encryption”",
+        "link": "https://alecmuffett.com/article/112522"
+    }
+]
